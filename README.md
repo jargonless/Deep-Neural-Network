@@ -1,6 +1,6 @@
 In this class project, we revisited H M Dipu Kabir, Abbas Khosravi, and Saeid
 Nahavandi’s paper “SpinalNet: Deep Neural Network with Gradual Input.” and attempted to reproduce a subset of their key findings.
-The paper and authors' code can be found here: 
+The paper and authors' code can be found here: https://paperswithcode.com/paper/spinalnet-deep-neural-network-with-gradual-1
 
 1. Our code requires pytorch and torchvision.
 
